@@ -1,2 +1,8 @@
-# mini-python-toolkit
-mini-python-toolkit
+# Mini Python Toolkit
+
+Simple learning project with utilities:
+- strings
+- math
+- lists
+
+Run tests with pytest
